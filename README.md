@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+
+📍 Junior Backend Developer in Seoul, South Korea <br> 
+
+
+💻  JavaScript, TypeScript, MySQL, MongoDB, AWS, etc <br>
+
+
+💓  Something new, Reading books, Travelling and coffee 
+
+<p align="left">
+ <a href="sunmin.dev@gmail.com"> <img src=https://www.flaticon.com/svg/static/icons/svg/281/281769.svg alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+</p>
+
+
+
+
 <!--
 **Sunmin0520/Sunmin0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +29,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmin0520&theme=tokyonight) //자주 쓰는 언어보여줌
+https://github.com/alexandresanlim/Badges4-README.md-Profile //프로필 아이콘
 -->
