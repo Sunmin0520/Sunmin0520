@@ -7,7 +7,7 @@
 💻  JavaScript, TypeScript, MySQL, MongoDB, AWS, etc <br>
 
 
-💓  Something new, Reading books, Travelling and coffee 
+💓  Something new, Reading books, Travelling and Coffee 
 
 <p align="left">
  <a href="sunmin.dev@gmail.com"> <img src=	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
