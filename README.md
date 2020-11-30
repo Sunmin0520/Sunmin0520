@@ -9,14 +9,20 @@
 
 💓  Something new, Reading books, Travelling and Coffee 
 
-<p align="left">
- <a href="sunmin.dev@gmail.com"> <img src=	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
-</p>
+
 
 
 
 
 <!--
+
+<p align="left">
+ <a href="sunmin.dev@gmail.com"> <img src=	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+</p>
+
+이메일 왜 안 되지???
+
+
 **Sunmin0520/Sunmin0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
