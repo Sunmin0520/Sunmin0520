@@ -1,42 +1,20 @@
 ### Hi there 👋
 
 
-📍 Junior Backend Developer in Seoul, South Korea <br> 
+📍 Junior Backend engineer in Seoul, South Korea <br> 
 
 
 💻  JavaScript, TypeScript, MySQL, MongoDB, AWS, etc <br>
 
 
-💓  Something new, Reading books, Travelling and Coffee 
+💓  Deep dive into something new, Reading books, Travelling and Coffee 
+
+<br />
+<br />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSunmin0520%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
 
 
-
-<!--
-
-<p align="left">
- <a href="sunmin.dev@gmail.com"> <img src=	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
-</p>
-
-이메일 왜 안 되지???
-
-
-**Sunmin0520/Sunmin0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmin0520&theme=tokyonight) //자주 쓰는 언어보여줌
-https://github.com/alexandresanlim/Badges4-README.md-Profile //프로필 아이콘
--->
